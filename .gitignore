@@ -1,0 +1,7 @@
+bin
+obj
+publish
+.pdb
+.dll
+.exe
+.vs
